@@ -1,6 +1,6 @@
-# MediBook
+# ClinicHub
 
-MediBook is a full-stack hospital appointment booking system built using
+ClincHub is a full-stack hospital appointment booking system built using
 PHP and MySQL. It allows patients to find doctors and book appointments,
 doctors to manage appointments and availability, and administrators to
 manage doctors and users.
@@ -54,10 +54,10 @@ manage doctors and users.
 -   Production security hardening
 
 ## Author
-Aashmeet Singh
 
-**Your Name**
 
-MediBook was developed as a full-stack web application demonstrating
+**Aashmeet Singh**
+
+ClinicHub was developed as a full-stack web application demonstrating
 PHP, MySQL, authentication, CRUD operations, database relationships,
 appointment management, and Linux server deployment.
